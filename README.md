@@ -188,23 +188,6 @@ rebuild the aggregate tables.
 | `python test_lists.py record` | Record reproduction/test-list metadata without deleting traces. |
 | `python test_lists.py reclaim` | Dry-run trace cleanup for unreproducible or incomplete bugs; add `--apply` to delete. |
 
-## Paper
-
-The accompanying paper evaluates whether the Python EFDD findings transfer to a
-statically typed, compiled setting. Its main findings are that value- and
-data-level features correlate more strongly with failures than line coverage,
-lines remain the strongest single feature for exact localization, and combining
-features improves EXAM and wasted effort over any individual feature.
-
-The paper source used while preparing this README is expected next to this
-repository at `../../papers/apr2026-java-efdd`.
-
-## Citation
-
-If you use this package, cite the accompanying Java EFDD replication paper and
-the original Python EFDD study. The paper's data availability statement points
-to this repository:
-
 ## License
 
 This replication package is released under the Apache License 2.0; see
