@@ -205,10 +205,6 @@ If you use this package, cite the accompanying Java EFDD replication paper and
 the original Python EFDD study. The paper's data availability statement points
 to this repository:
 
-```text
-https://github.com/smythi93/java-efdd
-```
-
 ## License
 
 This replication package is released under the Apache License 2.0; see
