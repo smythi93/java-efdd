@@ -1,4 +1,4 @@
-# java-efdd: Java execution-feature fault localization
+# Java execution-feature fault localization
 
 This repository is the replication package for a cross-language study of
 execution-feature fault localization. It ports the original Python
